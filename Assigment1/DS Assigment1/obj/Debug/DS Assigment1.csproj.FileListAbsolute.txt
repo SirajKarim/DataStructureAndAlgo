@@ -1,0 +1,6 @@
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\ClassWork\DS Assigment1\DS Assigment1\bin\Debug\DS Assigment1.exe.config
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\ClassWork\DS Assigment1\DS Assigment1\bin\Debug\DS Assigment1.exe
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\ClassWork\DS Assigment1\DS Assigment1\bin\Debug\DS Assigment1.pdb
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\ClassWork\DS Assigment1\DS Assigment1\obj\Debug\DS Assigment1.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\ClassWork\DS Assigment1\DS Assigment1\obj\Debug\DS Assigment1.exe
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\ClassWork\DS Assigment1\DS Assigment1\obj\Debug\DS Assigment1.pdb
